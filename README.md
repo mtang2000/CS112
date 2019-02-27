@@ -1,2 +1,2 @@
 # CS112
-CS112 Class Code
+Rutgers CS112 Problem Sets and Assignments.
